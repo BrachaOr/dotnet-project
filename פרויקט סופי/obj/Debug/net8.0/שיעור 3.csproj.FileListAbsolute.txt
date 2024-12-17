@@ -1,0 +1,291 @@
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\appsettings.json
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.exe
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.deps.json
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\refint\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+Z:\B\פרוינד אפרת\core\שיעור 3\obj\Debug\net8.0\ref\שיעור 3.dll
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.dll
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\refint\שיעור 3.dll
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.pdb
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\appsettings.Development.json
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\appsettings.json
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.exe
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.deps.json
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.dll
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.pdb
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets.build.json
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets.development.json
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+E:\ש.ב\core\שיעור 3\obj\Debug\net8.0\ref\שיעור 3.dll
+E:\ש.ב\core\שיעור 3\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+Z:\B\פרוינד אפרת\core\שיעור 3\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+E:\core\שיעור 3\bin\Debug\net8.0\appsettings.Development.json
+E:\core\שיעור 3\bin\Debug\net8.0\appsettings.json
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.exe
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.deps.json
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.dll
+E:\core\שיעור 3\bin\Debug\net8.0\שיעור 3.pdb
+E:\core\שיעור 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\core\שיעור 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets.build.json
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets.development.json
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+E:\core\שיעור 3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\core\שיעור 3\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.dll
+E:\core\שיעור 3\obj\Debug\net8.0\refint\שיעור 3.dll
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.pdb
+E:\core\שיעור 3\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+E:\core\שיעור 3\obj\Debug\net8.0\ref\שיעור 3.dll
+E:\core\שיעור 4\bin\Debug\net8.0\appsettings.Development.json
+E:\core\שיעור 4\bin\Debug\net8.0\appsettings.json
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.exe
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.deps.json
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.dll
+E:\core\שיעור 4\bin\Debug\net8.0\שיעור 3.pdb
+E:\core\שיעור 4\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\core\שיעור 4\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets.build.json
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets.development.json
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+E:\core\שיעור 4\obj\Debug\net8.0\staticwebassets.pack.json
+E:\core\שיעור 4\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.dll
+E:\core\שיעור 4\obj\Debug\net8.0\refint\שיעור 3.dll
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.pdb
+E:\core\שיעור 4\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+E:\core\שיעור 4\obj\Debug\net8.0\ref\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\appsettings.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.exe
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.deps.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\refint\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+Z:\B\פרוינד אפרת\core\שיעור 6\שיעור 5\obj\Debug\net8.0\ref\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\appsettings.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.exe
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.deps.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\שיעור 3.pdb
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\refint\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.pdb
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\obj\Debug\net8.0\ref\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\appsettings.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.exe
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.deps.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.Up2Date
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\refint\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.pdb
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+Z:\B\פרוינד אפרת\core\שיעור 5\obj\Debug\net8.0\ref\שיעור 3.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\data\clothes.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\data\users.json
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\פרוינד אפרת\core\שיעור 5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\data\clothes.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\data\users.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\שיעור 5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\appsettings.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\data\clothes.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\data\users.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.staticwebassets.runtime.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.exe
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.deps.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.runtimeconfig.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\שיעור 3.pdb
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.AssemblyReference.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfoInputs.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.AssemblyInfo.cs
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.CoreCompileInputs.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעור 3.props
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\scopedcss\bundle\שיעור 3.styles.css
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\refint\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.pdb
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.genruntimeconfig.cache
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\ref\שיעור 3.dll
+Z:\B\‏‏אורלנצ'יק ברכה\core\פרויקט חדש\שיעור 5\obj\Debug\net8.0\שיעור 3.csproj.CopyComplete

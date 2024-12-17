@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Clothes</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+
+<body>
+    <div>
+        <p id="userName"></p>
+        <button type="button" onclick="editUser()">עריכה</button>
+        <div id="editUserForm">
+            <h3>Edit</h3>
+            <form action="javascript:void(0);" onsubmit="updateUser()">
+                <input type="hidden" id="edit-id-user">
+                <input type="text" id="edit-name-user">
+                <input type="text" id="edit-password-user">
+
+                <input type="submit" value="Save">
+                <a onclick="closeInput('editUserForm')" aria-label="Close">&#10006;</a>
+            </form>
+        </div>
+    </div>
+
+    <h1>CLOTHES CRUD</h1>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <input type="text" id="add-name" placeholder="add-name">
+        <input type="text" id="add-color" placeholder="add-color">
+        <input type="checkbox" id="is-shabat" >
+        <input type="submit" value="Add">
+    </form>
+
+
+    <div id="editForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="text" id="edit-name">
+            <input type="text" id="edit-color">
+            <input type="hidden" id="edit-id">
+            <input type="checkbox" id="edit-isShabat">
+            <input type="submit" value="Save">
+            <a onclick="closeInput('editForm')" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Is for shabe's?</th>
+            <th>Name</th>
+            <th>color</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="cloths"></tbody>
+       
+    </table>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        if (localStorage.getItem("token") == null) {
+            console.log("login");
+            sessionStorage.setItem("not", "not exist token")
+
+            location.href = "./login.html"
+
+        }
+    </script>
+</body>
+</body>
+
+</html>

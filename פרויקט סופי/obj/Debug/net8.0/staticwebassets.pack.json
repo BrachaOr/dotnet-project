@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\js\\userList.js",
+      "PackagePath": "staticwebassets\\js\\userList.js"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "Z:\\B\\‏‏אורלנצ'יק ברכה\\core\\פרויקט חדש\\שיעור 5\\wwwroot\\userList.html",
+      "PackagePath": "staticwebassets\\userList.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.שיעור 3.props",
+      "PackagePath": "build\\שיעור 3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.שיעור 3.props",
+      "PackagePath": "buildMultiTargeting\\שיעור 3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.שיעור 3.props",
+      "PackagePath": "buildTransitive\\שיעור 3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.שיעור 3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

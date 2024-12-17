@@ -1,0 +1,35 @@
+[{
+        "Id": 1,
+        "Name": "Classic Italian",
+        "IsShabas": false,
+        "color": "ghjk",
+        "userId": 5
+
+
+    },
+    {
+        "Id": 3,
+        "Name": "cout",
+        "IsShabas": true,
+        "color": "green",
+        "userId": 3
+
+
+    },
+    {
+        "Id": 4,
+        "Name": "Classic Italian",
+        "IsShabas": false,
+        "color": "ghjk",
+        "userId": 1
+
+
+    },
+    {
+        "Id": 2,
+        "Name": "swetter",
+        "IsShabas": false,
+        "color": "ghjk",
+        "userId": 5
+    }
+]
